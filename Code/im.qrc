@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>grad4.jpg</file>
+    </qresource>
+</RCC>
