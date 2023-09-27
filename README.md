@@ -24,7 +24,7 @@ The application provides four ways of color change:
 - Choosing a desired color from *color palette by clicking* on it.
 - Manual color input, provided by *typing the desired color values into the input fields* for any color model.\
   *Attention! If you insert the wrong data (incorrect type or out of range value) color will not be changed.\
-  RGB color channels value range: 0-255. CMYK color channels value range: 0-100. HSL color channels value range: 0-360.*
+  RGB color channels value range: 0-255. CMYK color channels value range: 0-100. HSL color channels value range: Hue 0-360 degrees, Saturation&Luminosity 0-100%.*
 - Adjusting color with sliders by moving it left or right to decrease or increase the chosen color channel value.
 
 While changing color, you can observe real-time updates in the color picker square, slider's and input field's values.
